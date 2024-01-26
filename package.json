@@ -1,5 +1,5 @@
 {
-  "name": "biome-faster-formatter-and-linter",
+  "name": "biome-formatter-and-linter",
   "private": true,
   "version": "0.0.0",
   "type": "module",
